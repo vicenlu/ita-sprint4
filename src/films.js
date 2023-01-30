@@ -3,6 +3,7 @@ function getAllDirectors(array) {
   let result =  ???;
   console.log("EXERCICE 1 ->", result);
   return result;
+  eouboúb
 }
 
 // Exercise 2: Get the films of a certain director
